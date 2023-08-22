@@ -1,5 +1,6 @@
 ## Classic Calculator
 Calculator web application to perform basic mathematical operations, making it a handy tool for quick calculations.
+**LINK**: (https://g-wtham.github.io/classic-calculator/)
 
 ## Features
 
